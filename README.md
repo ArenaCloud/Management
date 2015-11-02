@@ -1,2 +1,3 @@
-# Documentation
-ArenaCloud documents
+# Management
+
+ArenaCloud internal management
